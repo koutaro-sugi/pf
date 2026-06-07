@@ -208,5 +208,20 @@ export const fragments = {
       alt: "Air duct component",
       caption: "3D Printing / fabrication",
     },
+    {
+      image: "images/random/IMG_1784.png",
+      alt: "KiCad PCB layout view",
+      caption: "Prototype / PCB Concept",
+    },
+    {
+      image: "images/random/IMG_1782.png",
+      alt: "Hand-routed PCB on 3D printed substrate",
+      caption: "3D Printing / PCB Concept",
+    },
+    {
+      image: "images/random/IMG_1785.png",
+      alt: "Drone landing gear CAD with generative struts",
+      caption: "Generative Design / Metal 3D Printing Concept",
+    },
   ] satisfies VisualItem[],
 };
