@@ -41,10 +41,6 @@ export const profile = {
 };
 
 export const intro = {
-  certifications: [
-    "一等無人航空機操縦士 (マルチローター): 夜間・目視外",
-    "二等無人航空機操縦士 (飛行機): 目視外",
-  ],
   activities: [
     "フライト業務: 産業機 / 試験機 / GCS / リモートパイロット",
     "個人開発: Webアプリケーション / AWS / IoT / PX4 / ArduPilot / DJI SDK",
