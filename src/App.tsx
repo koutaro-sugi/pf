@@ -15,7 +15,7 @@ export function App() {
       </Reveal>
 
       <Reveal>
-        <IntroSection activities={intro.activities} />
+        <IntroSection certifications={intro.certifications} activities={intro.activities} />
       </Reveal>
 
       <Reveal>

@@ -141,6 +141,11 @@ a {
   gap: 6px;
 }
 
+.intro-group-secondary {
+  margin-top: 8px;
+  gap: 6px;
+}
+
 .intro-line {
   display: flex;
   flex-wrap: wrap;
@@ -149,6 +154,10 @@ a {
   font-size: 14.25px;
   line-height: 1.6;
   text-wrap: pretty;
+}
+
+.intro-line-primary {
+  color: var(--ink);
 }
 
 .intro-line-secondary {
